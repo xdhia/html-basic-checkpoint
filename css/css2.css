@@ -1,0 +1,92 @@
+p{
+    color:white;
+    /* width: 400px; */
+    /* :inline */
+}
+.paragraphe1{
+    background-color: grey;
+    width: 48%;
+    display: inline-block;
+    padding: 5px;
+}
+.paragraphe1:hover{
+    border: 2px solid;
+    border-color: black;
+}
+.paragraphe2{
+    background-color: grey;
+    width: 48%;
+    display: inline-block;
+    padding: 5px;
+}
+.paragraphe2:hover{
+    border: 2px solid;
+    border-color: black;
+}
+
+
+.top.image-back{
+        width: 100%;
+        height: 80%;
+        background-repeat: no-repeat;
+        z-index: 999;
+        position: relative;
+    }
+    .paragraphe3{
+        background-color: black;
+        width: 48%;
+        display: inline-block;
+        padding: 5px;
+        color:white
+    }
+    .paragraphe3:hover{
+        border: 2px solid;
+        border-color: white;
+       
+    }
+    .paragraphe4{
+        background-color: black;
+        width: 48%;
+        display: inline-block;
+        padding: 5px;
+        color: white
+    }
+    .paragraphe4:hover{
+        border: 2px solid;
+        border-color:white;
+        }
+
+    .top{
+        padding-top : 370px;
+        background-image: url("../images/Fruit.jpg") ;
+        background-repeat: repeat-y;
+        text-decoration-style: initial;
+        width: 100%;
+        background-size:cover;
+        text-shadow: 0 0 3px #FF0000;
+       
+        box-shadow: 10px 10px grey;}
+.title {
+    margin-left: 27%;
+    font-style: italic;
+    font-size: 15mm;
+    background-size: cover;
+    
+}
+.lil{
+    margin-left: 12%;
+    font-style: italic;
+    font-size: 15mm;
+    background-size: cover;
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+    
+
+body {
+    margin: 0
+}
+.paragraph{
+    height: 300px;
+   vertical-align: middle;
+}
